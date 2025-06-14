@@ -12,9 +12,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 2nd Year *Electronics & Communication Engineering* Student  
+- 🎓 3rd Year *Electronics & Communication Engineering* Student  
 - 💻 Passionate *Full Stack Web Developer*  
-- 📚 Currently learning *DSA, MERN Stack, and Cloud Computing*  
+- 📚 Currently learning *DSA, MERN Stack*  
 - 🚀 Contributor to *Open Source Projects*  
 - ⚡ Fun Fact: I convert ☕ into ⚙️ and bugs into features!
 
