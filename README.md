@@ -24,7 +24,7 @@
 
 ### 🌐 Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,typescript" alt="Frontend Technologies" />
 </div>
 
 ### 🧠 Backend & Database
